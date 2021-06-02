@@ -1,0 +1,24 @@
+body{font-family: 'Nunito', sans-serif; -webkit-font-smoothing: antialiased; -moz-osx-font-smoothing: grayscale;}
+h5{line-height: 32px;}
+.user-icon{max-height: 24px;}
+.bg-accent-blue{background: linear-gradient(90deg,#02b3e4,#02ccba);}
+.bg-accent-violet{background: linear-gradient(90deg,#6586fc,#a151ed);}
+.bg-initial{background-color: #0eb582;}
+.bg-done{background-color: #d1f6ed !important; color: #6c757d!important}
+.bg-faded-green{background-color: #f0fdfa;}
+.letter-spacing-1{letter-spacing: 1px;}
+.profile-dropdown{margin: .625rem 0 0;}
+.left-navigation-bar a:hover, .list-group-item.active{background-color: #02b3e4; color: #ffffff; transition: all 0.2s;}
+.card>.list-group:first-child .list-group-item:first-child{border-radius: 0;}
+label{font-weight: 600;}
+.form-group{margin-bottom: 1.5rem;}
+.tip-box {color: #2e5014; background: #d5efc2;}
+.bi.bi-lightbulb{font-size: 200%;}
+.info-tab {display: inline-block;position: absolute;top: 8px;}
+.info-tab {float: left;margin-left: -16px;background-color: #6FDA45;}
+[class^="bi-"]::before, [class*=" bi-"]::before{line-height: 1.4;}
+.image-question{max-height: 40px;}
+.individual-result-inner{border: 3px solid #0eb582;}
+.course-title{ color: #a151ed;}
+.login-register-tabs .nav-item{border-top: none; border-left: none; border-right: none; border-bottom: 3px solid #dee2e6; color: #657482;}
+.login-register-tabs .nav-item.active{border-bottom: 3px solid #0eb582; color: #0eb582;}
